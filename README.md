@@ -1,2 +1,2 @@
 # task-app
-Task management application(Android/Javascript)
+Task management application(Android/Java)
